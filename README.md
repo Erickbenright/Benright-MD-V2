@@ -1,6 +1,6 @@
 # BENRIGHT-MD-V2 
 <p align="center">
-<a href="https://github.com/Erickbenright"><img title="Author" src="https://www.bing.com/images/create/computer-hacker27s-which-shows-on-display-a-word-22b/1-673c5628a4c745afae44a4d9f22a9341?id=rCjByZtPfxTpOazLqv7jyw%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.ZALOhJ4PhKrlKW0h.bsh&skey=qr2TesG7mOSukqSa347o_o0XjiFoalQnb18oBCxOKgk&FORM=GCRIDP?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Erickbenright"><img title="Author" src="https://files.catbox.moe/6p755w.jpeg?id=rCjByZtPfxTpOazLqv7jyw%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.ZALOhJ4PhKrlKW0h.bsh&skey=qr2TesG7mOSukqSa347o_o0XjiFoalQnb18oBCxOKgk&FORM=GCRIDP?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
